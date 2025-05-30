@@ -1,0 +1,23 @@
+.env
+
+__pycache__/
+
+# Ambientes virtuais
+venv/
+
+# IDEs e editores
+.idea/
+.vscode/
+
+
+.pytest_cache/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+*~
+
+# Arquivos de cache do modelo
+.cache/
+transformers/
